@@ -1,0 +1,2 @@
+# xcorr
+matlab中求相关函数 xcorr,参考matlab Help文档中的运算流程，写了一个和xcorr输出相同的函数xcorr_lcg，并给出测试函数
