@@ -12,7 +12,7 @@
 <!-- /TOC -->
 
 # matlab GUI 使用技巧
-本文首先在[Github](https://github.com/LHesperus/matlab-demo/tree/master/GUI)上更新，同时也会在CSDN和知乎同步更新。
+本文首先在[Github](https://github.com/LHesperus/matlab-demo/tree/master/GUI/GUI_Note.md)上更新，同时也会在CSDN和知乎同步更新。
 
  用户界面分成两种：TUI（文本交互界面）和 GUI（图形化交互界面），Matlab支持GUI开发，官方Help文档中没有过多的资料参考。而我们在设计界面时，往往某些简单的功能按理来说一定会有，但是在网上查资料(博客等)都是非常杂乱，有时候因为软件版本的问题语法并不一定有效，很难准确的找到自己想要的解决办法。
 
