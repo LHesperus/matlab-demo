@@ -22,4 +22,4 @@ plot(unwrap_ang)
 subplot(212)
 plot(unwrap_ang2)
 err=sum(unwrap_ang-unwrap_ang2);
-disp(['Îó²î£º',num2str(err)]);
+disp(['ï¿½ï¿½î£º',num2str(err)]);
